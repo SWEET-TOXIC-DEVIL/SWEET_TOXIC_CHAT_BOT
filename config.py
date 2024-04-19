@@ -13,5 +13,5 @@ MONGO_URL = getenv("MONGO_URL", None)
 OWNER_ID = "6656608288"
 SUPPORT_GRP = "SweetToxicSupport"
 UPDATE_CHNL = "SweetToxicHeroku_CC"
-OWNER_USERNAME = "SWEET_TOXIC_DEVIL"
+OWNER_USERNAME = "WereWolfDemon"
 
